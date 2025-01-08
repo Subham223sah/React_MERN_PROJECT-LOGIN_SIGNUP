@@ -1,0 +1,5 @@
+node_modules
+bcrypt
+body-parser
+jsonwebtoken
+.env
